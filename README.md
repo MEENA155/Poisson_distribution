@@ -83,7 +83,9 @@ else:
 
 # Output : 
 ![po1](https://github.com/MEENA155/Poisson_distribution/assets/94677128/91728ecb-7626-4150-87ca-357be38394e2)
+
 ![po2](https://github.com/MEENA155/Poisson_distribution/assets/94677128/627d7263-b4c4-48b0-988c-52dbb7439f2a)
+
 ![po3](https://github.com/MEENA155/Poisson_distribution/assets/94677128/3b8f7acb-2d37-4279-a83d-980d5662701a)
 
 
